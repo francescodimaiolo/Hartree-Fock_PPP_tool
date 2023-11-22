@@ -10,7 +10,7 @@
 
 4. The main output file is output.out. In this file you will find all the outputs coming from
 the Hartree-Fock iterations. At the end of the file, you will have the HOMO-LUMO gap as well as
-the HOMO-LUMO exchange integral calculated within the Pariser-Parr-Pople model.
+the HOMO-LUMO exchange integral calculated within the Pariser-Parr-Pople model at the Hartree-Fock level.
 
 **********************************
 
