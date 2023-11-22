@@ -16,6 +16,5 @@ the HOMO-LUMO exchange integral calculated within the Pariser-Parr-Pople model.
 
 Cite this work as:
  Bedogni, M.; Giavazzi D.; Di Maiolo, F.; Painelli, A. Shining Light on Inverted
-  Singlet−Triplet Emitters, J. Chem. Theory Comput. (2023) https://doi.org/10.
- 1021/acs.jctc.3c01112.
+  Singlet−Triplet Emitters, J. Chem. Theory Comput. (2023) https://doi.org/10.1021/acs.jctc.3c01112.
  
