@@ -284,7 +284,7 @@ write(15,*)
   write(15,*)'Hartree-Fock iterations'
   write(15,*)
   
-  niter=10000000  !!! mximum number of possible iterations
+  niter=10000000  !!! maximum number of possible iterations
   thresh=1d-12    !!! threshold for checking convergence
   eold=energy    !!! temporary variable to store HF energy at previous iteration step
   denmatold=denmat   !!! temporary variable to store density matrix at previous iteration step
