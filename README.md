@@ -1,4 +1,8 @@
-To calculate the HOMO-LUMO exchange integral within the Pariser-Parr-Pople (PPP) model (ZDO approximation is used) just follow the steps below:
+*******************************************************************************
+********* PARISER-PARR-POPLE HOMO-LUMO EXCHANGE INTEGRAL CALCULATOR ***********
+*******************************************************************************
+
+To use the exchange integral calculator, just follow the steps below:
 
 1. Prepare the geometry file in the xyz format. A template (geom.xyz) is provided.
 
