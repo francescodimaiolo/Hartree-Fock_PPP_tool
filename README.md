@@ -1,5 +1,5 @@
 *******************************************************************************
-********* PARISER-PARR-POPLE HOMO-LUMO EXCHANGE INTEGRAL CALCULATOR ***********
+          PARISER-PARR-POPLE HOMO-LUMO EXCHANGE INTEGRAL CALCULATOR 
 *******************************************************************************
 
 To use the exchange integral calculator, just follow the steps below:
