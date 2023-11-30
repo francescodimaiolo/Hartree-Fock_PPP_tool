@@ -4,7 +4,7 @@
 
 To use the exchange integral calculator, just follow the steps below:
 
-1. Prepare the geometry file in the xyz format. A template (geom.xyz) is provided.
+1. Prepare the molecular geometry file in the xyz format. A template (geom.xyz) is provided.
 
 2. Compile exchange.f90, possibly using the Intel Fortran compiler (MKL routines are required):
 
